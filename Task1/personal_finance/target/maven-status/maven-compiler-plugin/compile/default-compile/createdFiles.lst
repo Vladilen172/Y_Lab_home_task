@@ -1,0 +1,8 @@
+com/example/User/User.class
+com/example/Budget/BudgetManager.class
+com/example/Transaction/Transaction.class
+com/example/Transaction/TransactionManager.class
+com/example/User/UserManager.class
+com/example/Main.class
+com/example/Transaction/TypeTransaction.class
+com/example/Goal/GoalManager.class
